@@ -1,0 +1,1 @@
+This repository contains Python git basics  for file handling tasks, including creating, adding , committin , pushing to repository
