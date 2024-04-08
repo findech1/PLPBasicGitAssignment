@@ -127,4 +127,8 @@ Additional Tips:
 
 
 
+<<<<<<< HEAD
 This assignment is a basic introduction to the Git and GitHub workflow, emphasizing repository creation, local setup, making changes, committing, and pushing to GitHub.
+=======
+This assignment is a basic introduction to the Git and GitHub workflow, emphasizing repository creation, local setup, making changes, committing, and pushing to GitHub.
+>>>>>>> 1c1b929 (done)
